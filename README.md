@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Liziming726 from China
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Facebook
 - 📫 How to reach me 873884635@qq.com
 -    Keep learning and Happy learning !
 
