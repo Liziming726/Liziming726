@@ -1,3 +1,5 @@
+![img](https://blog.logrocket.com/wp-content/uploads/2020/01/complete-guide-react-refs.png)
+
 - 👋 Hi, I’m @Liziming726 from China
 - 👀 I’m interested in Web
 - 🌱 I’m currently learning React
