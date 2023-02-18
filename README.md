@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Liziming726 from China
+## 👋 Hi, I’m Liziming from China
 >  I’m interested in Web
 
 ### Learning:
