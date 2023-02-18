@@ -14,9 +14,7 @@
 
 ### Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liziming726&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=liziming726)](https://github.com/anuraghazra/github-readme-stats)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=liziming726&show_icons=true&theme=buefy&hide_border=true" alt="" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liziming726&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 
 - 💞️ I’m looking to collaborate on Facebook
 - 📫 How to reach me 873884635@qq.com
