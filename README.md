@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Liziming726 from China
-> 👀 I’m interested in Web
+>  I’m interested in Web
 
 ### Learning:
 
