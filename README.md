@@ -13,7 +13,7 @@
 
 ### Stats:
 
-| [![liziming726's GitHub stats](https://github-readme-stats.vercel.app/api?username=liziming726&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liziming726&layout=compact&theme=buefy&hide_border=true" alt="" /> |
+| [![liziming726's GitHub stats](https://github-readme-stats.vercel.app/api?username=liziming726&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liziming726&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact&theme=buefy&hide_border=true" alt="" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 - 💞️ I’m looking to collaborate on Facebook
